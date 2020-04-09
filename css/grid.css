@@ -1,0 +1,85 @@
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1140px;
+}
+
+/*.row {
+	margin-left: -30px;
+	margin-right: -30px;
+}
+*/
+.one-half {
+	width: 50%;
+	float: left;
+}
+
+.one-third {
+	width: 33.33%;
+	float: left;
+}
+
+.two-third {
+	width: 66.66%;
+	float: left;
+}
+
+.one-fourth {
+	width: 25%;
+	float: left;
+}
+
+.three-fourth {
+	width: 75%;
+	float: left;
+}
+
+.one-sixth {
+	width: 16.66%;
+	float: left;
+}
+
+.two-fifth {
+	width: 40%;
+	float: left;
+}
+
+.three-fifth {
+	width: 60%;
+	float: left;
+}
+
+.text {
+	border: 1px solid green;
+	min-height: 100px;
+	margin: 15px 30px;
+	text-align: center;
+	font-size: 4em;
+	padding-top: 20px;
+}
+
+/*@media only screen and (max-width: 767px) {
+
+	.one-half,
+	.one-third,
+	.two-third,
+	.three-fourth,
+	.one-fourth,
+	.one-fifth,
+	.two-fifth,
+	.three-fifth,
+	.four-fifth,
+	.one-sixth,
+	.five-sixth {
+		position: relative;
+		float: none;
+		width: 100%;
+	}
+}
+*/
+
+
+
+
+
+
